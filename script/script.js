@@ -20,7 +20,7 @@ document.addEventListener('keydown', moveUp)
 document.addEventListener('click', moveUp)
 
 function moveUp() {
-    yPos -= 30
+    yPos -= 40
 }
 
 // create Block
